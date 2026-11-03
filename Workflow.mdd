@@ -19,4 +19,6 @@ Salesperson Contacts Customer
       Yes         No
        ↓            ↓
    Site Visit   Close Lead
+
+A workflow defines the path a record follows from start to finish, including actions, decisions, approvals, and notifications.
         
