@@ -1,0 +1,21 @@
+A workflow us a sequence of activities or steps taht are performed in a specific order to achieve a business goal
+Think of it as a map that shows
+1. what happens first
+2. what happens next
+3. who preforms each action
+4. what decisions are made
+5. when the process ends
+
+   Example(Simple work flow)
+      Customer Enquiry
+            ↓
+       Lead Created
+            ↓
+Salesperson Contacts Customer
+            ↓
+       Interested?
+       ↙        ↘
+      Yes         No
+       ↓            ↓
+   Site Visit   Close Lead
+        
